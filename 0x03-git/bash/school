@@ -1,1 +1,2 @@
 #!/bin/dash
+echo "The school is open"
